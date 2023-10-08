@@ -1,0 +1,15 @@
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/bin/Debug/net7.0/CSharp-criando-primeira-aplicacao
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/bin/Debug/net7.0/CSharp-criando-primeira-aplicacao.deps.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/bin/Debug/net7.0/CSharp-criando-primeira-aplicacao.runtimeconfig.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/bin/Debug/net7.0/CSharp-criando-primeira-aplicacao.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/bin/Debug/net7.0/CSharp-criando-primeira-aplicacao.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.csproj.AssemblyReference.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.AssemblyInfoInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.AssemblyInfo.cs
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.csproj.CoreCompileInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/refint/CSharp-criando-primeira-aplicacao.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/CSharp-criando-primeira-aplicacao.genruntimeconfig.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/CSharp-criando-primeira-aplicacao/obj/Debug/net7.0/ref/CSharp-criando-primeira-aplicacao.dll
