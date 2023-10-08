@@ -56,7 +56,7 @@ void RegistrarBanda()
     ExibirTituloDaOpcao("Registro das bandas");
     Console.Write("Digite o nome da banda que deseja registrar: ");
     string nomeDaBanda = Console.ReadLine()!;
-    bandasRegistradas.Add(nomeDaBanda, new List<int>());
+    bandasRegistradas.Add(nomeDaBanda.ToLower(), new List<int>());
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso!");
     Thread.Sleep(4000);
     Console.Clear();
@@ -130,7 +130,7 @@ void ExibirMedia()
     ExibirTituloDaOpcao("Exibir média da banda");
     Console.Write("Digite o nome da banda que deseja exibir a média: ");
     string nomeDaBanda = Console.ReadLine()!;
-    if (bandasRegistradas.ContainsKey(nomeDaBanda))
+    if (bandasRegistradas.ContainsKey(nomeDaBanda.ToLower()))
     {
         List<int> notasDaBanda = bandasRegistradas[nomeDaBanda];
         Console.WriteLine($"\nA média da banda {nomeDaBanda} é {notasDaBanda.Average()}.");
