@@ -1,0 +1,15 @@
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/bin/Debug/net7.0/05-Csharp-Arrays-e-colecoes
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/bin/Debug/net7.0/05-Csharp-Arrays-e-colecoes.deps.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/bin/Debug/net7.0/05-Csharp-Arrays-e-colecoes.runtimeconfig.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/bin/Debug/net7.0/05-Csharp-Arrays-e-colecoes.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/bin/Debug/net7.0/05-Csharp-Arrays-e-colecoes.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.csproj.AssemblyReference.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.AssemblyInfoInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.AssemblyInfo.cs
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.csproj.CoreCompileInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/refint/05-Csharp-Arrays-e-colecoes.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/05-Csharp-Arrays-e-colecoes.genruntimeconfig.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/05-Csharp-Arrays-e-colecoes/obj/Debug/net7.0/ref/05-Csharp-Arrays-e-colecoes.dll
