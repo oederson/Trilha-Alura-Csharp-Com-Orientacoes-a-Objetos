@@ -14,7 +14,7 @@ internal class MenuRegistrarBanda : Menu
         string nomeDaBanda = Console.ReadLine()!;
         Banda banda = new Banda(nomeDaBanda);
         bandasRegistradas.Add(nomeDaBanda, banda);
-
+        //Pedindo para o chatGPT para criar o resumo da banda.
         var client = new OpenAIAPI("<SUA API KEY AQUI>");
         var chat = client.Chat.CreateConversation();
         chat.AppendSystemMessage($"Resuma a banda {nomeDaBanda} em 1 parágrafo. Adote um estilo informal");

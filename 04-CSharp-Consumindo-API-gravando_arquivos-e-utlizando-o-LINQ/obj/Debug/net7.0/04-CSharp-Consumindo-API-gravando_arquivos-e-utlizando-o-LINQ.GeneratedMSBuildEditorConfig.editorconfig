@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CSharp_criando_primeira_aplicacao
-build_property.ProjectDir = /home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/01-CSharp-criando-primeira-aplicacao/
+build_property.RootNamespace = _04_CSharp_Consumindo_API_gravando_arquivos_e_utlizando_o_LINQ
+build_property.ProjectDir = /home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/04-CSharp-Consumindo-API-gravando_arquivos-e-utlizando-o-LINQ/
