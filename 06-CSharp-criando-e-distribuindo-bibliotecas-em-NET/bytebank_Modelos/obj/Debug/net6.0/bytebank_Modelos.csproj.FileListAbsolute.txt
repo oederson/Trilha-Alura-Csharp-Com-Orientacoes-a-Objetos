@@ -1,0 +1,12 @@
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/bin/Debug/net6.0/bytebank_Modelos.deps.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/bin/Debug/net6.0/bytebank_Modelos.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/bin/Debug/net6.0/bytebank_Modelos.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/bytebank_Modelos.csproj.AssemblyReference.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/bytebank_Modelos.AssemblyInfoInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/bytebank_Modelos.AssemblyInfo.cs
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/bytebank_Modelos.csproj.CoreCompileInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/bytebank_Modelos.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/refint/bytebank_Modelos.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/bytebank_Modelos.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/06-CSharp-criando-e-distribuindo-bibliotecas-em-NET/bytebank_Modelos/obj/Debug/net6.0/ref/bytebank_Modelos.dll
