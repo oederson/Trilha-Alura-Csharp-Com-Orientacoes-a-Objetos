@@ -1,0 +1,15 @@
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/bin/Debug/net7.0/Cronometro
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/bin/Debug/net7.0/Cronometro.deps.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/bin/Debug/net7.0/Cronometro.runtimeconfig.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/bin/Debug/net7.0/Cronometro.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/bin/Debug/net7.0/Cronometro.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.csproj.AssemblyReference.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.AssemblyInfoInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.AssemblyInfo.cs
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/refint/Cronometro.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/Cronometro.genruntimeconfig.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/Cronometro/obj/Debug/net7.0/ref/Cronometro.dll
