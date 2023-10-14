@@ -1,0 +1,15 @@
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/bin/Debug/net7.0/EditorDeTexto
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/bin/Debug/net7.0/EditorDeTexto.deps.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/bin/Debug/net7.0/EditorDeTexto.runtimeconfig.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/bin/Debug/net7.0/EditorDeTexto.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/bin/Debug/net7.0/EditorDeTexto.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.csproj.AssemblyReference.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.AssemblyInfoInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.AssemblyInfo.cs
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.csproj.CoreCompileInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/refint/EditorDeTexto.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/EditorDeTexto.genruntimeconfig.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorDeTexto/obj/Debug/net7.0/ref/EditorDeTexto.dll
