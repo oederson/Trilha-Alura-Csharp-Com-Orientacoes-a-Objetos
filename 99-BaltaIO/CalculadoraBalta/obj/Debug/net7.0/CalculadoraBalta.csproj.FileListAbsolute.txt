@@ -1,0 +1,15 @@
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/bin/Debug/net7.0/CalculadoraBalta
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/bin/Debug/net7.0/CalculadoraBalta.deps.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/bin/Debug/net7.0/CalculadoraBalta.runtimeconfig.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/bin/Debug/net7.0/CalculadoraBalta.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/bin/Debug/net7.0/CalculadoraBalta.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.csproj.AssemblyReference.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.AssemblyInfoInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.AssemblyInfo.cs
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.csproj.CoreCompileInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/refint/CalculadoraBalta.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/CalculadoraBalta.genruntimeconfig.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/CalculadoraBalta/obj/Debug/net7.0/ref/CalculadoraBalta.dll
