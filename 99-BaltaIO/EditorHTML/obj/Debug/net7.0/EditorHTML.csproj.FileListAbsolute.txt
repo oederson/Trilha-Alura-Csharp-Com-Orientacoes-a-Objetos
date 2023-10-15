@@ -1,0 +1,15 @@
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/bin/Debug/net7.0/EditorHTML
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/bin/Debug/net7.0/EditorHTML.deps.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/bin/Debug/net7.0/EditorHTML.runtimeconfig.json
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/bin/Debug/net7.0/EditorHTML.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/bin/Debug/net7.0/EditorHTML.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.csproj.AssemblyReference.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.AssemblyInfoInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.AssemblyInfo.cs
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.csproj.CoreCompileInputs.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/refint/EditorHTML.dll
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.pdb
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/EditorHTML.genruntimeconfig.cache
+/home/eder/Trilha-Alura-Csharp-Com-Orientacoes-a-Objetos/99-BaltaIO/EditorHTML/obj/Debug/net7.0/ref/EditorHTML.dll
